@@ -18,7 +18,7 @@ class _SplashViewState extends State<SplashView> {
       Navigator.of(context).pushAndRemoveUntil(
           PageRouteBuilder(
             pageBuilder: (context, _, __) => const HomeView(),
-            transitionDuration: const Duration(milliseconds: 1250),
+            transitionDuration: const Duration(milliseconds: 1330),
             transitionsBuilder: (_, animation, __, child) {
               final tween =
                   Tween(begin: const Offset(1.0, 0.0), end: Offset.zero)
