@@ -13,11 +13,12 @@ class Bookly extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      // routerConfig: BooklyRouter.router,
       debugShowCheckedModeBanner: false,
       theme: lightTheme(),
       darkTheme: darkTheme(),
       themeMode: ThemeMode.dark,
-      home: const SplashView(),
+      home: const SplashView(), 
     );
   }
 }

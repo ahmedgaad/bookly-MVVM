@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:bookly/features/home/presentation/view/home.dart';
+import 'package:bookly/features/home/presentation/view/home_view.dart';
 import 'package:bookly/features/splash/presentation/view/components/splash_body.dart';
 import 'package:flutter/material.dart';
 

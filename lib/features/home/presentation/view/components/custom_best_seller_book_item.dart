@@ -1,3 +1,4 @@
+import 'package:bookly/features/home/presentation/view/components/custom_rate_item.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -51,40 +52,7 @@ class CustomBestSellerBookItem extends StatelessWidget {
                   ),
                 ),
                 const SizedBox(height: 2),
-                const Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                  children: [
-                    Text(
-                      '19.99 €',
-                      style: TextStyle(
-                        color: Colors.white,
-                      ),
-                    ),
-                    Row(
-                      children: [
-                        Row(
-                          mainAxisSize: MainAxisSize.min,
-                          children: [
-                            Icon(
-                              Icons.star,
-                              color: Color(0xffFFDD4F),
-                            ),
-                            SizedBox(width: 3),
-                            Text(
-                              '4.8',
-                              style: TextStyle(color: Colors.white),
-                            )
-                          ],
-                        ),
-                        SizedBox(width: 5),
-                        Text(
-                          '(2390)',
-                          style: TextStyle(color: Color(0xff707070)),
-                        )
-                      ],
-                    ),
-                  ],
-                ),
+                const RateItem(),
               ],
             ),
           ),
