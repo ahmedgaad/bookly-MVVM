@@ -18,7 +18,7 @@ class HomeView extends StatelessWidget {
           SliverAppBar(
             pinned: false,
             floating: false,
-            expandedHeight: MediaQuery.sizeOf(context).height * 0.37,
+            expandedHeight: MediaQuery.sizeOf(context).height * 0.48,
             flexibleSpace: FlexibleSpaceBar(
               background: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
@@ -52,6 +52,7 @@ class HomeView extends StatelessWidget {
           //   ),
           // ),
           SliverFillRemaining(
+            hasScrollBody: true,
             child: Padding(
               padding: const EdgeInsetsDirectional.only(
                 start: 16.0,
