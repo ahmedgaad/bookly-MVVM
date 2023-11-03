@@ -1,0 +1,774 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 200,
+    "items": [
+      {
+        "kind": "books#volume",
+        "id": "9GwrmHRl490C",
+        "etag": "l8XQgjOUDa4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/9GwrmHRl490C",
+        "volumeInfo": {
+          "title": "Beginning XNA 3.0 Game Programming",
+          "subtitle": "From Novice to Professional",
+          "authors": [
+            "Bruno Evangelista",
+            "Alexandre Santos Lobao",
+            "Riemer Grootjans",
+            "Jose ANTONIO LEAL DEFARIAS"
+          ],
+          "publisher": "Apress",
+          "publishedDate": "2009-05-31",
+          "description": "Would you like to create your own games, but never have the time to dig into the details of multimedia programming? Now you don't have to! XNA 3.0 makes it simple to create your own games, which will run on your PC and Xbox 360 console. Even if you don't know how to program at all, Beginning XNA 3.0 Game Programming: From Novice to Professional will teach you the basics of C# 2008 programming along the way. Don't get overwhelmed with details you don't need to know—just learn what you need to start creating your own games right now! This fast–paced introduction to XNA 3.0 and the C# language provides you with a quick–start guide to creating high–quality XNA games. You'll be introduced to the key concepts and ideas you need to know in a gradual fashion so that you master one concept before using it as a foundation for the next. Before long, you will have the skills to create smooth, professional–looking results in a range of gaming genres. By the end of the book, you will have constructed several working games and have an excellent knowledge base from which to investigate more advanced techniques.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781430218180"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1430218185"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 437,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "2.4.3.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=9GwrmHRl490C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=9GwrmHRl490C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.eg/books?id=9GwrmHRl490C&printsec=frontcover&dq=subject:Programming&hl=&cd=1&source=gbs_api",
+          "infoLink": "http://books.google.com.eg/books?id=9GwrmHRl490C&dq=subject:Programming&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Beginning_XNA_3_0_Game_Programming.html?hl=&id=9GwrmHRl490C"
+        },
+        "saleInfo": {
+          "country": "EG",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "EG",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.eg/books/download/Beginning_XNA_3_0_Game_Programming-sample-epub.acsm?id=9GwrmHRl490C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.eg/books/download/Beginning_XNA_3_0_Game_Programming-sample-pdf.acsm?id=9GwrmHRl490C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=9GwrmHRl490C&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "lESCCXkdy3YC",
+        "etag": "XTF7lwJJjzQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/lESCCXkdy3YC",
+        "volumeInfo": {
+          "title": "Gamers at Work",
+          "subtitle": "Stories Behind the Games People Play",
+          "authors": [
+            "Morgan Ramsay"
+          ],
+          "publisher": "Apress",
+          "publishedDate": "2012-06-08",
+          "description": "\"Gamers at Work is a critical resource for new and experienced business leaders—for anyone who feels unprepared for the demanding and seemingly insurmountable trials ahead of them.\" —Peter Molyneux OBE, founder, Lionhead Studios \"Gamers at Work explores every imaginable subtlety of the video-game industry through the fascinating stories of those who took the risks and reaped the rewards.\" —Hal Halpin, president, Entertainment Consumers Association \"This is the sort of book that can tear the most hardcore gamers away from their PCs, Macs, or consoles for a few hours of rewarding reading.\" —North County Times \"Gamers at Work is truly an invaluable resource that's well worth adding to your personal library.\" —Wii Love It There are few companies in the video-game industry that have withstood the test of time; most startups exit as quickly as they enter. In Gamers at Work: Stories Behind the Games People Play, the countless challenges of building successful video-game developers and publishers in this unstable industry are explored through interviews containing entertaining stories, humorous anecdotes, and lessons learned the hard way. Gamers at Work presents an inside look at how 18 industry leaders play the odds, seize opportunities, and transform small businesses into great businesses. Here, in Gamers at Work, you will find their stories replete with their personal struggles, corporate intrigue, and insights into strategy, leadership, and management. Gamers at Work: Explores the formation of entertainment software companies from the perspectives of successful founders who played the odds Provides insight into why experienced professionals sacrifice the comfort of gainful employment for the uncertainty and risk of the startup Shares the experiences and lessons that shape the lives, decisions, and struggles of entrepreneurs in this volatile business As an added bonus, check out Online Game Pioneers at Work, published in 2015, for even more incredible stories from leaders in the mobile space. Featured Entrepreneurs: Trip Hawkins, Electronic Arts (Madden NFL) Nolan Bushnell, Atari (Pong) Wild Bill Stealey, MicroProse Software (Sid Meier's Civilization) Tony Goodman, Ensemble Studios (Age of Empires) Feargus Urquhart, Obsidian Entertainment (Star Wars: Knights of the Old Republic II) Tim Cain, Troika Games (Arcanum, Vampire: the Masquerade—Bloodlines) Warren Spector, Junction Point Studios (Disney Epic Mickey) Doug & Gary Carlston, Broderbund Software (Prince of Persia, Carmen Sandiego) Don Daglow, Stormfront Studios (Neverwinter Nights, Tony La Russa Baseball) John Smedley, Verant Interactive (EverQuest, PlanetSide) Ken Williams, Sierra On-Line (King's Quest, Leisure Suit Larry) Lorne Lanning, Oddworld Inhabitants (Oddworld) Chris Ulm, Appy Entertainment (FaceFighter, Trucks & Skulls) Tobi Saulnier, 1st Playable (Kung Zhu, Yogi Bear) Christopher Weaver, Bethesda Softworks (The Elder Scrolls) Jason Rubin, Naughty Dog (Crash Bandicoot, Uncharted) Ted Price, Insomniac Games (Spyro, Resistance) Other books in the Apress At Work Series: Coders at Work, Seibel, 978-1-4302-1948-4 Venture Capitalists at Work, Shah & Shah, 978-1-4302-3837-9 CIOs at Work, Yourdon, 978-1-4302-3554-5 CTOs at Work, Donaldson, Seigel, & Donaldson, 978-1-4302-3593-4 Founders at Work, Livingston, 978-1-4302-1078-8 European Founders at Work, Santos, 978-1-4302-3906-2 Women Leaders at Work, Ghaffari, 978-1-4302-3729-7 Advertisers at Work, Tuten, 978-1-4302-3828-7",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781430233527"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1430233524"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 345,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.5.4.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=lESCCXkdy3YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=lESCCXkdy3YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.eg/books?id=lESCCXkdy3YC&printsec=frontcover&dq=subject:Programming&hl=&cd=2&source=gbs_api",
+          "infoLink": "http://books.google.com.eg/books?id=lESCCXkdy3YC&dq=subject:Programming&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Gamers_at_Work.html?hl=&id=lESCCXkdy3YC"
+        },
+        "saleInfo": {
+          "country": "EG",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "EG",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.eg/books/download/Gamers_at_Work-sample-epub.acsm?id=lESCCXkdy3YC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.eg/books/download/Gamers_at_Work-sample-pdf.acsm?id=lESCCXkdy3YC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=lESCCXkdy3YC&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "1sIzdipoXuQC",
+        "etag": "DtqySu5P6gk",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/1sIzdipoXuQC",
+        "volumeInfo": {
+          "title": "XNA 3.0 Game Programming Recipes",
+          "subtitle": "A Problem-Solution Approach",
+          "authors": [
+            "Riemer Grootjans"
+          ],
+          "publisher": "Apress",
+          "publishedDate": "2009-05-26",
+          "description": "Join the game development revolution today! XNA 3.0 greatly simplifies the development of your own games, lowering the barrier for programmers to get into game development. In XNA, you can start coding your games from the very start, a true revelation compared to other game programming environments. XNA doesn't sacrifice power for this ease of use—it is built entirely on DirectX technology. Completely updated for XNA 3.0, expert Riemer Grootjans brings together a selection of the hottest recipes in XNA programming for the Xbox 360, PC, and Zune. Advanced XNA programmers, experienced coders new to game development, and even complete beginners will find XNA 3.0 Game Programming Recipes an invaluable companion whether building games for fun or as commercial products.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781430218562"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1430218568"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 663,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.4.2.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=1sIzdipoXuQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=1sIzdipoXuQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.eg/books?id=1sIzdipoXuQC&printsec=frontcover&dq=subject:Programming&hl=&cd=3&source=gbs_api",
+          "infoLink": "http://books.google.com.eg/books?id=1sIzdipoXuQC&dq=subject:Programming&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/XNA_3_0_Game_Programming_Recipes.html?hl=&id=1sIzdipoXuQC"
+        },
+        "saleInfo": {
+          "country": "EG",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "EG",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.eg/books/download/XNA_3_0_Game_Programming_Recipes-sample-pdf.acsm?id=1sIzdipoXuQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=1sIzdipoXuQC&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "HK1MDwAAQBAJ",
+        "etag": "AvIu7Qo9BP8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/HK1MDwAAQBAJ",
+        "volumeInfo": {
+          "title": "Artificial Intelligence and Games",
+          "authors": [
+            "Georgios N. Yannakakis",
+            "Julian Togelius"
+          ],
+          "publisher": "Springer",
+          "publishedDate": "2018-02-17",
+          "description": "This is the first textbook dedicated to explaining how artificial intelligence (AI) techniques can be used in and for games. After introductory chapters that explain the background and key techniques in AI and games, the authors explain how to use AI to play games, to generate content for games and to model players. The book will be suitable for undergraduate and graduate courses in games, artificial intelligence, design, human-computer interaction, and computational intelligence, and also for self-study by industrial game developers and practitioners. The authors have developed a website (http://www.gameaibook.org) that complements the material covered in the book with up-to-date exercises, lecture slides and reading.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9783319635194"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "3319635190"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 337,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=HK1MDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=HK1MDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.eg/books?id=HK1MDwAAQBAJ&printsec=frontcover&dq=subject:Programming&hl=&cd=4&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=HK1MDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HK1MDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "EG",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 1299.96,
+            "currencyCode": "EGP"
+          },
+          "retailPrice": {
+            "amount": 1299.96,
+            "currencyCode": "EGP"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=HK1MDwAAQBAJ&rdid=book-HK1MDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 1299960000,
+                "currencyCode": "EGP"
+              },
+              "retailPrice": {
+                "amountInMicros": 1299960000,
+                "currencyCode": "EGP"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "EG",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.eg/books/download/Artificial_Intelligence_and_Games-sample-pdf.acsm?id=HK1MDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=HK1MDwAAQBAJ&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "ezCIDQAAQBAJ",
+        "etag": "h5PeL1NBxFg",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/ezCIDQAAQBAJ",
+        "volumeInfo": {
+          "title": "IT Through Experiential Learning",
+          "subtitle": "Learn, Deploy and Adopt IT through Gamification",
+          "authors": [
+            "Shreekant W Shiralkar"
+          ],
+          "publisher": "Apress",
+          "publishedDate": "2016-11-18",
+          "description": "This concise book shows you how experiential learning can be used to overcome the challenges posed in applying and delivering information technology (IT) to your business needs through an innovative, game-based approach. Technology innovations and evolving business models are part of a rapid change that is forcing corporate and management professionals to learn, deploy, and adopt IT in new ways in order to maintain a competitive advantage. Many are doing this through experiential learning. You’ll begin by reviewing the basics of experiential learning and its relevance to IT, followed by six chapters that apply the hands-on concept through various scenarios. Make IT Through Experiential Learning one of your valued resources today. What You'll Learn: Innovative and proven IT-related application scenarios Generic management and leadership skill development Guidance for applying the learning methods for generating extraordinary results over conventional methods Who This Book Is For: IT professionals, higher education students, and those engaged in training and organizational development.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781484224212"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1484224213"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 108,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.2.2.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ezCIDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ezCIDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.eg/books?id=ezCIDQAAQBAJ&printsec=frontcover&dq=subject:Programming&hl=&cd=5&source=gbs_api",
+          "infoLink": "http://books.google.com.eg/books?id=ezCIDQAAQBAJ&dq=subject:Programming&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/IT_Through_Experiential_Learning.html?hl=&id=ezCIDQAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "EG",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "EG",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.eg/books/download/IT_Through_Experiential_Learning-sample-epub.acsm?id=ezCIDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.eg/books/download/IT_Through_Experiential_Learning-sample-pdf.acsm?id=ezCIDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=ezCIDQAAQBAJ&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "46YbDgAAQBAJ",
+        "etag": "ekL01G2uRiA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/46YbDgAAQBAJ",
+        "volumeInfo": {
+          "title": "Bottlenecks",
+          "subtitle": "Aligning UX Design with User Psychology",
+          "authors": [
+            "David C. Evans"
+          ],
+          "publisher": "Apress",
+          "publishedDate": "2017-02-11",
+          "description": "Learn the psychological constrictions of attention, perception, memory, disposition, motivation, and social influence that determine whether customers will be receptive to your digital innovations. Bottlenecks: Aligning UX Design with User Psychology fills a need for entrepreneurs, designers, and marketing professionals in the application of foundational psychology to user-experience design. The first generation of books on the topic focused on web pages and cognitive psychology. This book covers apps, social media, in-car infotainment, and multiplayer video games, and it explores the crucial roles played by behaviorism, development, personality, and social psychology. Author David Evans is an experimental psychology Ph.D. and senior manager of consumer research at Microsoft who recounts high-stakes case studies in which behavioral theory aligned digital designs with the bottlenecks in human nature to the benefit of users and businesses alike. Innova tors in design and students of psychology will learn: The psychological processes determining users’ perception of, engagement with, and recommendation of digital innovations Examples of interfaces before and after simple psychological alignments that vastly enhanced their effectiveness Strategies for marketing and product development in an age of social media and behavioral targeting Hypotheses for research that both academics and enterprises can perform to better meet users’ needs Who This Book Is For Designers and entrepreneurs will use this book to give their innovations an edge on what are increasingly competitive platforms such as apps, bots, in-car apps, augmented reality content. Usability researchers and market researchers will leverage it to enhance their consulting and reporting. Students and lecturers in psychology departments will want it to help land employment in the private sector. Praise “Bottlenecks’ is a tight and eminently actionable read for business leaders in startups and enterprises alike. Evans gives us a rich sense of key psychological processes and even richer examples of them in action.” - Nir Eyal, Author of Hooked: How to Build Habit-Forming Products “Clients frequently ask our UX researchers and designers for deeper truths about why certain designs work and others fail. Bottlenecks offers practical explanations and evidence based on the idea that human cognition did not begin with the digital age.” - John Dirks, UX Director and Partner, Blink UX “Bottlenecks brings together two very important aspects of user experience design: understanding users and translating this into business impact. A must-read for anyone who wants to learn both.” - Josh Lamar, Sr. UX Lead, Microsoft Outlook",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781484225806"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1484225805"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 269,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.4.5.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=46YbDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=46YbDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.eg/books?id=46YbDgAAQBAJ&printsec=frontcover&dq=subject:Programming&hl=&cd=6&source=gbs_api",
+          "infoLink": "http://books.google.com.eg/books?id=46YbDgAAQBAJ&dq=subject:Programming&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Bottlenecks.html?hl=&id=46YbDgAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "EG",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "EG",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.eg/books/download/Bottlenecks-sample-epub.acsm?id=46YbDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.eg/books/download/Bottlenecks-sample-pdf.acsm?id=46YbDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=46YbDgAAQBAJ&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "y1kGzaLuffAC",
+        "etag": "Pf0MRbR++d4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/y1kGzaLuffAC",
+        "volumeInfo": {
+          "title": "Beginning Android Tablet Games Programming",
+          "authors": [
+            "Jeremy Kerfs"
+          ],
+          "publisher": "Apress",
+          "publishedDate": "2012-01-13",
+          "description": "Android games programmers now have the power to write games for Android tablets. Beginning Android Tablet Games Programming explains how to enhance your Android games using the new tablet interface and the additional screen estate. You'll learn how to bring your programming skills up to date and into a world where touch screens, games physics, and artificial intelligence come together in new and surprising ways. Beginning Android Tablet Games Programming shows how to quickly and easily set up an Android development environment—in no time at all, you'll be programming away. You'll begin with some simple games using sprites and choreographed movement. Next, you'll learn how to handle user input in the modern age of touch screens and motion. Along the way, you'll discover how to use that extra screen space on a tablet to provide more relaxed and more interesting user interactions in your games. You'll learn how to use sound and music, for instance, to make your application menus more user-friendly. The Android operating system has recently acquired multicore functionality to meet the demands of multicore devices now entering the tablet market. With Beginning Android Tablet Games Programming, you'll discover how to harness that new power with your games programming through more process-demanding and fun techniques, including physics modeling, rich game world representation, artificial intelligence, and multiplayer interactions. Throughout each chapter of Beginning Android Tablet Games Programming, you'll find code that you can add or adapt to your own games to create the components you want. You can also work up to wrapping everything together into a complete Mario-type example game. Finally, when you have your first games ready, learn how developers have released their games and made a profit. You'll find tips on how to present your games in the Android and other application markets, and a solid approach to games marketing and monetization.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781430238539"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1430238534"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 197,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "2.6.5.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=y1kGzaLuffAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=y1kGzaLuffAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.eg/books?id=y1kGzaLuffAC&printsec=frontcover&dq=subject:Programming&hl=&cd=7&source=gbs_api",
+          "infoLink": "http://books.google.com.eg/books?id=y1kGzaLuffAC&dq=subject:Programming&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Beginning_Android_Tablet_Games_Programmi.html?hl=&id=y1kGzaLuffAC"
+        },
+        "saleInfo": {
+          "country": "EG",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "EG",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.eg/books/download/Beginning_Android_Tablet_Games_Programmi-sample-epub.acsm?id=y1kGzaLuffAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.eg/books/download/Beginning_Android_Tablet_Games_Programmi-sample-pdf.acsm?id=y1kGzaLuffAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=y1kGzaLuffAC&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "jKBQAAAAMAAJ",
+        "etag": "sAivXqMPoRQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/jKBQAAAAMAAJ",
+        "volumeInfo": {
+          "title": "The Psychology of Computer Programming",
+          "authors": [
+            "Gerald M. Weinberg"
+          ],
+          "publisher": "New York : Van Nostrand Reinhold",
+          "publishedDate": "1971",
+          "description": "This classic volume probes how a program reflects its writer's personality; the effects of working environment on productivity; and many additional computer psychology issues.",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UOM:39015002110867"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 316,
+          "printType": "BOOK",
+          "categories": [
+            "Computer programmers"
+          ],
+          "averageRating": 5,
+          "ratingsCount": 1,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.3.1.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=jKBQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=jKBQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.eg/books?id=jKBQAAAAMAAJ&dq=subject:Programming&hl=&cd=8&source=gbs_api",
+          "infoLink": "http://books.google.com.eg/books?id=jKBQAAAAMAAJ&dq=subject:Programming&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/The_Psychology_of_Computer_Programming.html?hl=&id=jKBQAAAAMAAJ"
+        },
+        "saleInfo": {
+          "country": "EG",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "EG",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=jKBQAAAAMAAJ&hl=&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "nXLXkLzQx78C",
+        "etag": "XHQcTTbPVrU",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/nXLXkLzQx78C",
+        "volumeInfo": {
+          "title": "Pro Android Games",
+          "authors": [
+            "Vladimir Silva"
+          ],
+          "publisher": "Apress",
+          "publishedDate": "2012-11-27",
+          "description": "In the last few years, Android has progressed with the debut of better fonts, new User Interface and Experience (UI/UX) APIs, tablet considerations, multi-touch capabilities, multi-tasking, faster performance, improved battery management techniques, and now Google TV Android Apps for the Android game app developer repertoire. With actionable real-world source, Pro Android Games, Second Edition shows you how to build more sophisticated and addictive Android games, by leveraging the power of these recent advancements found in the new Android Jelly Beans development platform as well as those you've counted on in earlier releases. Multi-touch code gives these games and their players dynamic input and exchange ability, for a more realistic arcade game experience. Faster and better performance offers game players a more seamless, fun arcade experience like never before on Android. There is also improved native C/C++ integration with Android's NDK as well, which makes coding, compiling, and converting both productive and efficient with gains in app performance. *** NOTE: This book published previously as Advanced Android 4 Games. This edition covers game development for all Android SDK versions up to Jelly Bean / Android SDK 4.1. Pro Android Games, Second Edition features the following improvements: Updates to the latest version of the Android SDK, NKD, plus the latest Eclipse IDE. Greater focus on tablets the ever changing device resolutions, and hardware specs. Native game development and hardware accelerated graphics. Bigger and Better Real World Engines, such as Quake I and II Plus an oldie from the previous edition: Doom Coverage of the new smart TV APIs (Google TV), UI, UX, multi-touch and multi-tasking features available with Android Jelly Bean. A look into the future with augmented reality Advanced techniques for improving your game playing experience including better multi-tasking, improved performance optimization, battery management and more. A \"Quake 3D\"-like game app case study You’ll definitely have fun, and perhaps you’ll even make some money. Enjoy!",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781430247982"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1430247983"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 406,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.6.4.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=nXLXkLzQx78C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=nXLXkLzQx78C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.eg/books?id=nXLXkLzQx78C&printsec=frontcover&dq=subject:Programming&hl=&cd=9&source=gbs_api",
+          "infoLink": "http://books.google.com.eg/books?id=nXLXkLzQx78C&dq=subject:Programming&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Pro_Android_Games.html?hl=&id=nXLXkLzQx78C"
+        },
+        "saleInfo": {
+          "country": "EG",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "EG",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.eg/books/download/Pro_Android_Games-sample-epub.acsm?id=nXLXkLzQx78C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.eg/books/download/Pro_Android_Games-sample-pdf.acsm?id=nXLXkLzQx78C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=nXLXkLzQx78C&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "-17BDwAAQBAJ",
+        "etag": "bV9l0xilEV0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/-17BDwAAQBAJ",
+        "volumeInfo": {
+          "title": "Video Games and Well-being",
+          "subtitle": "Press Start",
+          "authors": [
+            "Rachel Kowert"
+          ],
+          "publisher": "Springer Nature",
+          "publishedDate": "2019-12-02",
+          "description": "This book examines how video game mechanics and narratives can teach players skills associated with increased psychological well-being. It integrates research from psychology, education, ludology, media studies, and communication science to demonstrate how game play can teach skills that have long been associated with increased happiness and prolonged life satisfaction, including flexible thinking, openness to experience, self-care, a growth mindset, solution-focused thinking, mindfulness, persistence, self-discovery and resilience. The chapters in this volume are written by leading voices in the field of game studies, including researchers from academia, the video gaming industry, and mental health practitioners paving the way in the field of “geek therapy.” This book will advance our understanding of the potential of video games to increase our psychological well-being by helping to mitigate depression, anxiety, and stress and foster persistence, self-care, and resilience.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9783030327705"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "3030327701"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 176,
+          "printType": "BOOK",
+          "categories": [
+            "Psychology"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.1.1.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=-17BDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=-17BDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com.eg/books?id=-17BDwAAQBAJ&printsec=frontcover&dq=subject:Programming&hl=&cd=10&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=-17BDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-17BDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "EG",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 2042.98,
+            "currencyCode": "EGP"
+          },
+          "retailPrice": {
+            "amount": 2042.98,
+            "currencyCode": "EGP"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=-17BDwAAQBAJ&rdid=book--17BDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 2042980000,
+                "currencyCode": "EGP"
+              },
+              "retailPrice": {
+                "amountInMicros": 2042980000,
+                "currencyCode": "EGP"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "EG",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.eg/books/download/Video_Games_and_Well_being-sample-epub.acsm?id=-17BDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com.eg/books/download/Video_Games_and_Well_being-sample-pdf.acsm?id=-17BDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=-17BDwAAQBAJ&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      }
+    ]
+  }

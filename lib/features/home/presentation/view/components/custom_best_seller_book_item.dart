@@ -1,3 +1,4 @@
+import 'package:bookly/features/home/data/models/books/books.dart';
 import 'package:bookly/features/home/presentation/view/components/custom_rate_item.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
@@ -6,7 +7,10 @@ import 'package:google_fonts/google_fonts.dart';
 class CustomBestSellerBookItem extends StatelessWidget {
   const CustomBestSellerBookItem({
     super.key,
+    required this.book,
   });
+
+  final Books book;
 
   @override
   Widget build(BuildContext context) {
@@ -17,12 +21,12 @@ class CustomBestSellerBookItem extends StatelessWidget {
         children: [
           Container(
             width: 70,
-            decoration: const BoxDecoration(
-              borderRadius: BorderRadius.all(Radius.circular(10)),
+            decoration: BoxDecoration(
+              borderRadius: const BorderRadius.all(Radius.circular(10)),
               image: DecorationImage(
                 fit: BoxFit.cover,
                 image: CachedNetworkImageProvider(
-                    'https://plus.unsplash.com/premium_photo-1682146720153-4d5bdf56f143?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80'),
+                    book.volumeInfo.imageLinks!.thumbnail ?? ''),
               ),
             ),
           ),
@@ -34,7 +38,7 @@ class CustomBestSellerBookItem extends StatelessWidget {
                 SizedBox(
                   width: MediaQuery.sizeOf(context).width / 1.5,
                   child: Text(
-                    'Harry Potter and the Goblet of Fire',
+                    book.volumeInfo.title ?? '',
                     style: Theme.of(context)
                         .textTheme
                         .titleMedium
@@ -44,15 +48,17 @@ class CustomBestSellerBookItem extends StatelessWidget {
                   ),
                 ),
                 const SizedBox(height: 2),
-                const Text(
-                  'J.K. Rowling',
-                  style: TextStyle(
+                Text(
+                  book.volumeInfo.authors!.first ?? '',
+                  style: const TextStyle(
                     fontSize: 14,
                     color: Colors.white,
                   ),
                 ),
                 const SizedBox(height: 2),
-                const RateItem(),
+                RateItem(
+                  book: book,
+                ),
               ],
             ),
           ),

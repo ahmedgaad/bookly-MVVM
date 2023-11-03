@@ -6,16 +6,15 @@ class BooklyRouter {
   BooklyRouter._();
 
   static final GoRouter router = GoRouter(
-  routes: [
-    GoRoute(
-      path: '/',
-      builder: (context, state) => const SplashView(),
-    ),
-    GoRoute(
-      path: '/homeView',
-      builder: (context, state) => const HomeView(),
-    )
-  ],
-);
-
+    routes: [
+      GoRoute(
+        path: '/',
+        builder: (context, state) => const SplashView(),
+      ),
+      GoRoute(
+        path: '/homeView',
+        builder: (context, state) => const HomeView(),
+      )
+    ],
+  );
 }

@@ -1,23 +1,27 @@
-
+import 'package:bookly/features/home/data/models/books/books.dart';
 import 'package:flutter/material.dart';
 
 class RateItem extends StatelessWidget {
   const RateItem({
     super.key,
+    required this.book,
   });
+
+  final Books book;
 
   @override
   Widget build(BuildContext context) {
-    return const Row(
+    return Row(
       mainAxisAlignment: MainAxisAlignment.spaceBetween,
       children: [
-        Text(
-          '19.99 €',
-          style: TextStyle(
-            color: Colors.white,
+        if (book.saleInfo!.listPrice != null)
+          Text(
+            '${book.saleInfo!.listPrice?.amount} ${book.saleInfo!.listPrice!.currencyCode}',
+            style: const TextStyle(
+              color: Colors.white,
+            ),
           ),
-        ),
-        Row(
+        const Row(
           children: [
             Row(
               mainAxisSize: MainAxisSize.min,

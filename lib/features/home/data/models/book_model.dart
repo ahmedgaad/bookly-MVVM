@@ -295,4 +295,3 @@ class Pdf extends Equatable {
   @override
   List<Object?> get props => [isAvailable, acsTokenLink];
 }
- 

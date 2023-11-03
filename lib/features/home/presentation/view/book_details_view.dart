@@ -1,18 +1,27 @@
+import 'package:bookly/features/home/data/models/books/books.dart';
 import 'package:bookly/features/home/presentation/view/components/custom_book_item.dart';
+import 'package:bookly/features/home/presentation/view_model/home_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:provider/provider.dart';
 
 class BookDetailsView extends StatelessWidget {
-  const BookDetailsView({super.key});
+  const BookDetailsView({super.key, required this.book});
+  final Books book;
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        leading: IconButton(onPressed: () {}, icon: const Icon(Icons.close)),
+        leading: IconButton(
+          onPressed: () {},
+          icon: const Icon(Icons.close),
+        ),
         actions: [
           IconButton(
-              onPressed: () {}, icon: const Icon(Icons.shopping_cart_outlined))
+            onPressed: () {},
+            icon: const Icon(Icons.shopping_cart_outlined),
+          )
         ],
       ),
       body: CustomScrollView(
@@ -21,47 +30,49 @@ class BookDetailsView extends StatelessWidget {
             hasScrollBody: false,
             child: Column(
               children: [
-                const CustomBookItem(
+                CustomBookItem(
                   width: 150,
                   height: 224,
                   r: 25,
+                  image: book.volumeInfo.imageLinks!.thumbnail ?? '',
                 ),
                 const SizedBox(height: 40),
-                const Text(
-                  'The Jungle Book',
-                  style: TextStyle(
+                Text(
+                  book.volumeInfo.title!,
+                  textAlign: TextAlign.center,
+                  style: const TextStyle(
                     color: Colors.white,
                     fontSize: 30,
                   ),
                 ),
                 const SizedBox(height: 4),
-                const Text(
-                  'Rudyard Kipling',
-                  style: TextStyle(
+                Text(
+                  book.volumeInfo.authors!.first,
+                  style: const TextStyle(
                     color: Colors.white,
                     fontSize: 18,
                   ),
                 ),
                 const SizedBox(height: 14),
-                const Row(
+                Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Row(
                       mainAxisSize: MainAxisSize.min,
                       children: [
-                        Icon(
+                        const Icon(
                           Icons.star,
                           color: Color(0xffFFDD4F),
                         ),
-                        SizedBox(width: 3),
+                        const SizedBox(width: 3),
                         Text(
-                          '4.8',
-                          style: TextStyle(color: Colors.white),
+                          book.volumeInfo.categories!.first,
+                          style: const TextStyle(color: Colors.white),
                         )
                       ],
                     ),
-                    SizedBox(width: 5),
-                    Text(
+                    const SizedBox(width: 5),
+                    const Text(
                       '(2390)',
                       style: TextStyle(color: Color(0xff707070)),
                     )
@@ -139,10 +150,17 @@ class BookDetailsView extends StatelessWidget {
                       physics: const BouncingScrollPhysics(),
                       scrollDirection: Axis.horizontal,
                       itemBuilder: (context, index) {
-                        return const CustomBookItem(
+                        final imageUrl = context
+                            .read<HomeController>()
+                            .books[index]
+                            .volumeInfo
+                            .imageLinks!
+                            .smallThumbnail;
+                        return CustomBookItem(
                           height: 150,
                           width: 87,
                           r: 8,
+                          image: imageUrl ?? '',
                         );
                       },
                       separatorBuilder: (context, index) =>
