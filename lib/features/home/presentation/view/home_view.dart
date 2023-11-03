@@ -55,37 +55,60 @@ class HomeView extends StatelessWidget {
               //     ],
               //   ),
               // ),
-              SliverFillRemaining(
-                hasScrollBody: true,
-                child: Padding(
-                  padding: const EdgeInsetsDirectional.only(
-                    start: 16.0,
-                    top: 20,
-                    end: 16,
-                  ),
-                  child: ListView.separated(
-                    physics: const NeverScrollableScrollPhysics(),
-                    itemBuilder: (context, index) {
-                      final book = value.books[index];
-                      return InkWell(
-                          onTap: () {
-                            Navigator.push(
-                              context,
-                              MaterialPageRoute(
-                                builder: (context) =>
-                                    BookDetailsView(book: book),
-                              ),
-                            );
-                          },
-                          borderRadius:
-                              const BorderRadius.all(Radius.circular(10)),
-                          child: CustomBestSellerBookItem(book: book));
-                    },
-                    separatorBuilder: (context, index) =>
-                        const SizedBox(height: 24),
-                    itemCount: value.books.length,
-                  ),
-                ),
+              SliverList(
+                // hasScrollBody: true,
+                delegate: SliverChildListDelegate(value.books.map((book) {
+                  return Padding(
+                    padding: const EdgeInsetsDirectional.only(
+                      start: 16.0,
+                      top: 15,
+                      end: 16,
+                      bottom: 10,
+                    ),
+                    child: InkWell(
+                        onTap: () {
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                              builder: (context) => BookDetailsView(book: book),
+                            ),
+                          );
+                        },
+                        borderRadius:
+                            const BorderRadius.all(Radius.circular(10)),
+                        child: CustomBestSellerBookItem(book: book)),
+                  );
+                }).toList()),
+
+                // child: Padding(
+                //   padding: const EdgeInsetsDirectional.only(
+                //     start: 16.0,
+                //     top: 20,
+                //     end: 16,
+                //   ),
+                //   child: ListView.separated(
+                //     physics: const NeverScrollableScrollPhysics(),
+                //     itemBuilder: (context, index) {
+                //       final book = value.books[index];
+                //       return InkWell(
+                //           onTap: () {
+                //             Navigator.push(
+                //               context,
+                //               MaterialPageRoute(
+                //                 builder: (context) =>
+                //                     BookDetailsView(book: book),
+                //               ),
+                //             );
+                //           },
+                //           borderRadius:
+                //               const BorderRadius.all(Radius.circular(10)),
+                //           child: CustomBestSellerBookItem(book: book));
+                //     },
+                //     separatorBuilder: (context, index) =>
+                //         const SizedBox(height: 24),
+                //     itemCount: value.books.length,
+                //   ),
+                // ),
               )
             ],
           );
